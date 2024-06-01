@@ -10,7 +10,6 @@ int main (){
     cin>>valorHora;
     salario=(horasT*valorHora);
     if (qtdAnos>=1){
-      //continuar depois.
     }
     return 0;
 }
